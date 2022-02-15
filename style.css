@@ -1,0 +1,834 @@
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+header{
+    height: 69px;
+    display: flex;
+    align-items: center;
+    font-family: Cardo;
+    font-size: 17px;
+    line-height: 23px;
+    
+   
+}
+
+nav ul li{
+    display: inline-block;
+    margin-left: 20px;
+ 
+}
+a{  color: #000000;
+    text-decoration: none;
+}
+
+.kartinka{
+    padding-left: 328px;
+ 
+}
+
+.kloop{
+    margin-top: 36px;
+    height: 698px;
+    background: url("./image/kartinka.png");
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+.kloop h4{
+    padding-top: 257px;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 27px;
+    line-height: 38px;
+    letter-spacing: 0.2px;
+}
+
+.kloops{
+    background-image: none; 
+    background-color: transparent; 
+    border: 1px solid #FFFFFF;
+    font-family: Cardo;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
+    color: #FFFFFF;
+    box-sizing: border-box; 
+    width: 204px;
+    height: 33px;
+ 
+}
+.small{
+display: flex;
+
+}
+
+.visual1{
+ margin-left: 100px;
+}
+
+.f{
+    margin-right: 60px;
+    padding: 17px;
+}
+.textt{
+
+ margin-left: 100px;
+  padding: 17px;
+}
+.maket{
+    display: flex;
+    max-width: 1440px;
+    min-width: 1440px;
+}
+
+
+.text{
+    margin-right: 43px;
+display: inline-block;
+font-family: Cardo;
+width: 340px;
+height: 104px;
+font-family: Cardo;
+
+text-align: right;
+
+color: #525252;
+}
+.content{
+    margin-top: 150px;
+
+    display: flex;
+    justify-content: space-around;
+}
+.cloe{
+	    margin-right: 43px;
+}
+.picture5{
+    width: 1000px;
+    height:  400px;
+    border: 15px;
+   
+}
+
+.img{
+    width: 59x;
+}
+.picture1{
+    width: 430px;
+    height:249px;
+    margin-left: -9px;
+}
+.picture2{
+    width: 430px;
+    height:249px;
+}    
+.picture3{
+    width: 430px;
+    height:249px;
+}    
+.picture4{
+    width: 430px;
+    height: 249px;
+}    
+
+
+.modular{
+margin-right: 43px;
+display: block;
+font-family: Cardo;
+font-style: italic;
+font-weight: normal;
+font-size: 18px;
+line-height: 37px;
+color: #000000;
+}
+
+.from {
+margin-right: 43px;
+font-family: Cardo;
+font-size: 15px;
+line-height: 28px;
+color: #000000;
+}
+
+.an{
+width: 354px;
+height: 92px;
+
+font-family: Cardo;
+line-height: 31px;
+text-align: right;
+color: #525252;
+}
+.shop{
+margin-right: 43px;
+width: 75px;
+height: 22px;
+
+font-family: Roboto;
+font-size: 17px;
+line-height: 22px;
+}
+span{ 
+font-style: italic;
+}
+
+.maket1{
+     display: flex;
+      margin-top: 172px;
+}
+.word{
+  
+ justify-content: flex-start;
+
+padding: 36px;
+height: 92px;
+line-height: 0px;
+font-family: Cardo;
+width: 437px;
+font-family: Cardo;
+
+text-align: left;
+color: #525252;
+}
+span{
+	display: inline-block;
+    margin-right: 0px;
+    font-family: Cardo;
+}
+h1,a {
+color: black;
+font-family: Robboto;
+}
+
+.one{
+padding: 0px;
+font-style: italic;
+font-weight: normal;
+font-size: 18px;
+line-height: 50px;
+color: #000000;
+}
+.two{
+
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 50px;
+color: #000000;
+}
+.three{
+font-family: Cardo;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 50px;
+color: #54595F;
+text-align: left;
+}
+.four{
+font-size: 16px;
+line-height: 50px;
+color: #54595F;
+}
+.five{
+width: 75px;
+height: 22px;
+font-size: 20px;
+line-height: 50px;
+}
+.text1{
+line-height: 0px;
+padding: 0px;
+line-height: 148px;
+font-family: Cardo;
+width: 437px;
+height: 92px;
+}
+
+
+.kartinka{
+    line-height:0px;
+ margin-top: 40px;
+ display: flex;
+ justify-content: space-around;
+}
+.word6{
+     margin-right: 0px; 
+     line-height: 19px;
+}
+.text2{
+line-height: 22px;
+font-family: Cardo;
+width: 352px;
+height: 104px;
+font-family: Cardo;
+text-align: right;
+color: #525252;
+}
+.text3{
+
+width: 348px;
+height: 92px;
+font-family: Cardo;
+line-height: 40px;
+text-align: right;
+color: #525252;
+}
+
+.word4{
+line-height: 50px;
+color: red;
+line-height: 93px;
+} 
+.photo{
+ width: 1000px;
+ height:  400px;
+ border: 15px;
+   
+}
+
+.img12{
+    width: 59x;
+}
+.1word{
+margin-right: 0px;
+ width: 59x;
+ width: 75px;
+height: 22px;
+display: block;
+font-family: Cardo;
+font-style: italic;
+font-weight: normal;
+font-size: 18px;
+line-height: 20px;
+text-align: right;
+color: #000000;
+}
+
+
+.2word {
+margin-right: 0px;
+font-family: Cardo;
+font-size: 15px;
+width: 75px;
+height: 22px;
+line-height: 33px;
+text-align: right;
+color: #000000;
+}
+
+.3word{
+width: 354px;
+height: 92px;
+width: 75px;
+height: 22px;
+
+font-family: Cardo;
+line-height: 0px;
+text-align: right;
+color: #525252;
+}
+.end{
+margin-right: 0px;
+width: 75px;
+height: 22px;
+
+font-family: Roboto;
+font-size: 17px;
+line-height: 0px;
+}
+
+.maket2{
+display: flex;
+ margin-top: 174px;
+}
+  
+.word0{
+ 
+justify-content: flex-start;
+padding: 36px;
+height: 92px;
+line-height: 0px;
+font-family: Cardo;
+width: 437px;
+font-family: Cardo;
+
+text-align: left;
+color: #525252;
+}
+span{
+ display: inline-block;
+margin-right: 0px;
+font-family: Cardo;
+}
+h1,a {
+color: black;
+font-family: Robboto;
+}
+
+.one0{
+padding: 0px;
+font-style: italic;
+font-weight: normal;
+font-size: 18px;
+line-height: 50px;
+color: #000000;
+}
+.two0{
+
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 50px;
+color: #000000;
+}
+.three0{
+font-family: Cardo;
+font-style: normal;
+font-weight: normal;
+font-size: 21px;
+line-height: 50px;
+color: #54595F;
+text-align: left;
+}
+.four0{
+font-size: 16px;
+line-height: 50px;
+color: #54595F;
+}
+.five0{
+width: 75px;
+height: 22px;
+font-size: 20px;
+line-height: 50px;
+}
+.picture8{
+display: flex;
+width: 230px;
+height: 70px;
+
+}
+.picture01{
+    display: flex;
+    margin-top: 47px;
+}
+
+.text4{
+     margin-right: 43px;
+display: inline-block;
+font-family: Cardo;
+width: 540px;
+height: 104px;
+font-family: Cardo;
+
+text-align: right;
+
+color: #525252;
+}
+.picture9{
+    width: 962px;
+    height:  540px;
+
+}
+.batea{
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 31px;
+line-height: 156px;
+
+text-align: right;
+
+color: #000000;
+}
+.ones{
+font-family: Cardo;
+font-style: italic;
+font-weight: normal;
+font-size: 18px;
+line-height: 37px;
+text-align: right;
+color: #000000;
+}
+.two1{
+font-family: Cardo;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 28px;
+text-align: right;
+color: #000000;
+}
+.three1{
+font-family: Cardo;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 25px;
+text-align: right;
+color: #54595F;
+}
+.four1{
+font-family: Cardo;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 27px;
+text-align: right;
+color: #54595F;
+}
+.five1{
+ font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 22px;
+text-align: right;
+color: #000000;
+}
+
+.picture02{
+text-align: center;
+margin-top: 80px;
+}
+   
+.our{
+    font-family: Cardo;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 39px;
+text-align: center;
+}
+.get{
+    margin-top: 35px;  
+ font-family: Cardo;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 33px;
+text-align: center;
+color: #000000;
+}
+
+.parent{
+ display: flex;
+ justify-content: center; 
+}
+.images{
+    padding: 20px;
+    position: relative;
+    width: 342px;
+    height: 500px;
+}
+.ers{
+    display: flex;
+    color: white;
+    background: white;
+    margin-top: -534px ;
+    margin-left: 280px;
+    font-family: Cardo;
+    font-size: 14px;
+    line-height: 28px;
+    text-align: right;
+    color: white;
+   }
+.ors{
+    display: flex;
+    color: white;
+    background: white;
+    margin-top: -534px ;
+    margin-left: 238px;
+    font-family: Cardo;
+    font-size: 14px;
+    line-height: 28px;
+    text-align: right;
+    color: white;
+}
+.images1{
+    padding: 20px;
+    position: relative;
+    width: 342px;
+    height: 500px;
+}
+.urs{
+    display: flex;
+    color: white;
+    background: white;
+    margin-top: -534px ;
+    margin-left: 238px;
+    font-family: Cardo;
+    font-size: 14px;
+    line-height: 28px;
+    text-align: right;
+    color: white;
+}
+.images2{
+    padding: 20px;
+    position: relative;
+    width: 342px;
+    height: 500px;
+}
+
+.the{
+margin-left: 250px;
+margin-top: 200px;
+width: 950px;
+font-family: Cardo;
+font-style: italic;
+font-weight: normal;
+font-size: 15px;
+line-height: 30px;
+text-align: center;
+color: #020202;
+}
+.r{
+ font-family: Cardo;
+margin-top: 60px;
+font-size: 15px;
+line-height: 21px;
+text-align: center;
+color: #000000;
+}
+
+
+.bigbox{
+    display: flex;
+    margin-top: 80px;
+   text-align: center;
+}
+
+.box1{
+       width: 360px;
+       height: 370px;
+       border: 1px solid white;
+       text-align: center;
+}
+
+.box2 {
+      width: 360px;
+      height: 370px;
+      text-align: center;
+      background: #F8F8F8;
+ 
+}
+
+}
+.box3{
+      width: 360px;
+      height: 370px;
+      text-align: center;
+}
+.box4{
+      width: 360px;
+      height: 370px;
+      text-align: center;
+      background: #F8F8F8;
+}
+
+.box1 h2{
+    height:30px ;
+font-family: Cardo;
+font-size: 24px;
+line-height: 35px;
+text-align: center;
+color: #000000;
+}
+.box2 h2{
+     height: 30px;
+font-family: Cardo;
+font-size: 24px;
+line-height: 35px;
+text-align: center;
+color: #000000;
+}
+.box3 h2{
+     height: 30px;
+font-family: Cardo;
+font-size: 24px;
+line-height: 35px;
+text-align: center;
+color: #000000;
+}
+.box4 h2{
+     height: 30px;
+font-family: Cardo;
+font-size: 24px;
+line-height: 35px;
+text-align: center;
+color: #000000;
+}
+
+.box1 p{
+font-family: Cardo;
+font-size: 18px;
+line-height: 29px;
+text-align: center;
+color: #000000;
+}
+.box2 p{
+ 
+font-family: Cardo;
+font-size: 18px;
+line-height: 33px;
+text-align: center;
+color: #000000;
+width: 359px;
+height: 56px;
+}
+.box3 p{
+ width: 370px;
+font-family: Cardo;
+font-size: 18px;
+line-height: 33px;
+text-align: center;
+color: #000000;
+}
+.box4 p{
+font-family: Cardo;
+font-size: 18px;
+line-height: 29px;
+text-align: center;
+color: #000000;
+}
+
+a{
+font-family: Cardo;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 15px;
+text-align: center;
+text-decoration-line: underline;
+color: #000000;
+}
+.photos01{
+    margin-top: 150px;
+    width: 500px;
+    height: 250px;
+
+}
+.abcd{
+    margin-top: 100px;
+    font-family: Cardo;
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: 0.3px;
+    margin-left: 600px;
+    width: 298px;
+    height: 26px;
+    color: #454545;
+}
+
+.photos02{
+    margin-top: 80px;
+    width: 1420px;
+    height: 104px;
+    background: url(.png);
+    border-radius: 0px;
+}
+footer{
+    margin-top: 82px;
+    background: #E9E9E9;
+    height: 448px;
+}
+
+
+.long{
+    display: flex;
+    justify-content: space-around;
+    height: 21px;
+    padding-top: 56px;
+    font-family: Cardo;
+    text-align: center;
+    color: #000000;
+
+}
+
+.long span{
+    display: block;
+    height: 28px;
+    font-size: 15px;
+    line-height: 28px;
+}
+
+.long button{
+    margin-top: 17px;
+    width: 237px;
+    height: 25px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+
+.long a{
+    font-size: 21px;
+    line-height: 21px;
+    text-transform: uppercase;
+    padding-left: 28px;
+
+}
+.clora{
+    margin-top: 36px;
+    margin-left: 63px;
+    display: flex;
+}
+
+
+
+
+.klok{
+    display: flex;
+    justify-content: space-around;
+    width: 1000px;
+    margin-top: 41px;
+}
+.bn{
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.bn a{
+    margin-top: 13px;
+}
+
+.card{
+    display: flex;
+    justify-content: space-between;
+    padding: 70px 150px 0 150px;
+    text-align: center;
+    width: 1140px;
+}
+
+
+
+
+.card p, .span{
+    
+font-family: Cardo;
+font-size: 13px;
+line-height: 32px;
+color: #000000;
+
+}
+
+.card-lop{
+    display: flex;
+   width: 360px;
+   
+}
+
+.card-long{
+    margin-left: 7px;
+}
+.width{
+    display: inline-block;
+
+    margin: 0 5px 0 5px;
+}
